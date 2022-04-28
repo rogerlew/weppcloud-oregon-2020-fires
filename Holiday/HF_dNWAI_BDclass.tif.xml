@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20201120</CreaDate><CreaTime>14212300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20201120" Time="142123">Reclassify dNWAI.tif VALUE "-0.950000 0.300000 1;0.300000 0.500000 3;0.500000 1 2" F:\Python\HF\HF_dNWAI_BDclass.tif DATA</Process></lineage></DataProperties></Esri></metadata>

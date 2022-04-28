@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20201113</CreaDate><CreaTime>12294400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20201113" Time="122944">RasterCalculator ("BC_dNWAI_sq.tif" * 15.5)+"BC_nwai.tif"*23.3 F:\Python\BC\BC_ash_2.tif</Process></lineage></DataProperties></Esri></metadata>
